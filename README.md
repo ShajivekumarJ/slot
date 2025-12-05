@@ -1,3 +1,4 @@
+<img width="1919" height="968" alt="Screenshot 2025-12-05 151442" src="https://github.com/user-attachments/assets/22ad5d1a-50c8-41b9-a193-328ab8094cfd" />
 # Ex03 Time Table
 ## Date: 26\11\2025
 ## REF NO : 25018897
@@ -119,6 +120,8 @@ Execute the program using runserver command.
 
 ## OUTPUT
 ![alt text](<Screenshot 2025-11-27 111026.png>)
+<img width="1919" height="968" alt="Screenshot 2025-12-05 151442" src="https://github.com/user-attachments/assets/2364e01a-b5a8-4601-aacc-6a4235219d76" />
+
 
 
 ## RESULT
