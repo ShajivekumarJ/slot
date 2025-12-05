@@ -1,4 +1,3 @@
-<img width="1919" height="968" alt="Screenshot 2025-12-05 151442" src="https://github.com/user-attachments/assets/22ad5d1a-50c8-41b9-a193-328ab8094cfd" />
 # Ex03 Time Table
 ## Date: 26\11\2025
 ## REF NO : 25018897
